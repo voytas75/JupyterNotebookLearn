@@ -1858,7 +1858,7 @@ By the end of Day 8, you will have integrated PowerShell with Jupyter Notebook a
           df.isnull().sum()
           ```
 
-        Running this code will return a Series where each column name is paired with the count of missing values in that column.
+          Running this code will return a Series where each column name is paired with the count of missing values in that column.
 
           ```python
           Col1    0
@@ -2083,11 +2083,11 @@ By the end of Day 8, you will have integrated PowerShell with Jupyter Notebook a
 
       2. **Z-score method**: The Z-score is a measure of how many standard deviations a data point is away from the mean. Data points with a Z-score above a certain threshold (usually 2 or 3) can be classified as outliers.
 
-      3. **IQR method**: The Interquartile Range (IQR) is a measure of the spread of data in a distribution. Outliers can be detected by identifying data points that fall below the lower bound (Q1 - 1.5 * IQR) or above the upper bound (Q3 + 1.5 * IQR), where Q1 and Q3 are the first and third quartiles, respectively.
+      3. **IQR method**: The Interquartile Range (IQR) is a measure of the spread of data in a distribution. Outliers can be detected by identifying data points that fall below the lower bound (Q1-1.5IQR) or above the upper bound (Q3+1.5IQR), where Q1 and Q3 are the first and third quartiles, respectively.
 
       4. **Modified Z-score method**: The modified Z-score is a variation of the Z-score method that takes into account the median and median absolute deviation (MAD) instead of the mean and standard deviation. This method is robust to outliers and can be useful when dealing with skewed distributions.
 
-      5. **Tukey's fences**: Tukey's fences define the lower and upper bounds for identifying outliers based on the IQR. Data points falling below the lower fence (Q1 - 1.5 * IQR) or above the upper fence (Q3 + 1.5 * IQR) can be considered outliers.
+      5. **Tukey's fences**: Tukey's fences define the lower and upper bounds for identifying outliers based on the IQR. Data points falling below the lower fence (Q1-1.5IQR) or above the upper fence (Q3+1.5IQR) can be considered outliers.
 
       6. **Machine learning models**: Another approach is to use machine learning models such as clustering algorithms or anomaly detection methods. These models can help identify data points that deviate significantly from the majority of the data.
 
