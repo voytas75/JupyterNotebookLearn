@@ -611,6 +611,7 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
         Remember to handle exceptions appropriately when working with files, especially when performing file operations that can raise errors.
 
         That's it! You now know how to read from and write to files using Python's file handling mechanisms.
+
      - Familiarize yourself with file modes, reading and writing text and binary data, and handling exceptions related to file operations.
   
         Here's a brief overview:
@@ -687,7 +688,7 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
 
         Remember to close the file after you're done with it using the `close()` method or by using the `with` statement, as shown in the examples above. This ensures that system resources are properly released.
 
-        I hope this overview helps you get familiar with file modes, reading and writing data, and handling exceptions related to file operations. Let me know if you have any further questions!
+        I hope this overview helps you get familiar with file modes, reading and writing data, and handling exceptions related to file operations.
 
   5. **Error Handling**:
      - Understand the basics of handling errors and exceptions in Python using try-except blocks.
@@ -768,6 +769,7 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
         By using `try-except` blocks, you can gracefully handle exceptions and ensure your code continues running smoothly even in the face of errors. It allows you to catch and handle specific exceptions or provide a fallback for any unforeseen exceptions.
 
         I hope this explanation helps you understand the basics of handling errors and exceptions in Python using `try-except` blocks. Let me know if you have any further questions!
+
      - Learn about common exception types and how to raise custom exceptions.
   
         Understanding common exception types and how to raise custom exceptions in Python is essential for effective error handling. Here's an overview of common exception types and how to raise custom exceptions:
