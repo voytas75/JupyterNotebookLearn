@@ -768,7 +768,7 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
 
         By using `try-except` blocks, you can gracefully handle exceptions and ensure your code continues running smoothly even in the face of errors. It allows you to catch and handle specific exceptions or provide a fallback for any unforeseen exceptions.
 
-        I hope this explanation helps you understand the basics of handling errors and exceptions in Python using `try-except` blocks. Let me know if you have any further questions!
+        I hope this explanation helps you understand the basics of handling errors and exceptions in Python using `try-except` blocks.
 
      - Learn about common exception types and how to raise custom exceptions.
   
@@ -824,7 +824,7 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
 
         Remember to provide informative error messages in your custom exception classes to aid in debugging and troubleshooting.
 
-        I hope this explanation helps you understand common exception types and how to raise custom exceptions in Python. Let me know if you have any further questions!
+        I hope this explanation helps you understand common exception types and how to raise custom exceptions in Python.
 
   6. **NumPy** (Numerical Python):
      - Gain familiarity with the NumPy library, which provides support for large, multi-dimensional arrays and matrices.
