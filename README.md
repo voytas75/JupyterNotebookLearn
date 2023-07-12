@@ -1271,7 +1271,7 @@ By the end of Day 2, you will have gained a solid understanding of Python syntax
 
 - Learn how to create and execute code cells, markdown cells, and raw cells
   - Open your previously created Jupyter Notebook file in Visual Studio Code.
-  - Create a new code cell by clicking on the "+" button in the toolbar or by pressing `B` on the keyboard in command mode.
+  - Create a new code cell by clicking on the "+" button in the toolbar or by pressing `B` or `A` on the keyboard in command mode.
   - Write some Python code in the code cell and execute it by clicking the "Run Cell" button or by pressing `Shift+Enter`.
   - Create a new markdown cell by clicking on the "+" button and selecting "Markdown" from the cell type dropdown menu, or by pressing `M` in command mode.
   - Write some explanatory text using Markdown syntax in the markdown cell.
