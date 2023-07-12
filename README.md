@@ -323,7 +323,6 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
         Keyword Arguments: These are arguments passed with the corresponding parameter names, allowing you to provide arguments in any order. For example:
 
         ```python
-
         def greet(name, age):
             print(f"Hello, {name}! You are {age} years old.")
 
