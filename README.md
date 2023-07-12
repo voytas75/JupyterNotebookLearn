@@ -936,8 +936,8 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
         2. Importing: In your Python script or Jupyter Notebook, include the following line of code to import the Pandas library: `import pandas as pd`. This convention allows you to refer to Pandas functions and objects using the `pd` alias.
 
         3. Data Structures: Pandas provides two primary data structures: Series and DataFrame.
-             - Series: A one-dimensional labeled array that can hold any data type. It is similar to a column in a spreadsheet or a single attribute in a dataset.
-             - DataFrame: A two-dimensional labeled data structure with columns of potentially different data types. It is similar to a spreadsheet or a SQL table.
+           - Series: A one-dimensional labeled array that can hold any data type. It is similar to a column in a spreadsheet or a single attribute in a dataset.
+           - DataFrame: A two-dimensional labeled data structure with columns of potentially different data types. It is similar to a spreadsheet or a SQL table.
 
         4. Creating a Series: You can create a Series using the `pd.Series()` function. You can pass a list, NumPy array, or dictionary to create a Series. For example:
 
@@ -974,11 +974,11 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
             ```
 
         6. Data Manipulation:
-             - Accessing Data: You can access columns, rows, or specific cells of a DataFrame using indexing and slicing.
-             - Filtering Data: You can filter rows based on specific conditions using boolean indexing.
-             - Adding or Removing Columns: You can add or remove columns from a DataFrame using the `df['column_name']` syntax.
-             - Aggregating Data: Pandas provides functions like `mean()`, `sum()`, `max()`, `min()`, etc., to aggregate data based on columns or rows.
-             - Handling Missing Data: Pandas provides functions like `fillna()`, `dropna()`, etc., to handle missing or null values in a DataFrame.
+           - Accessing Data: You can access columns, rows, or specific cells of a DataFrame using indexing and slicing.
+           - Filtering Data: You can filter rows based on specific conditions using boolean indexing.
+           - Adding or Removing Columns: You can add or remove columns from a DataFrame using the `df['column_name']` syntax.
+           - Aggregating Data: Pandas provides functions like `mean()`, `sum()`, `max()`, `min()`, etc., to aggregate data based on columns or rows.
+           - Handling Missing Data: Pandas provides functions like `fillna()`, `dropna()`, etc., to handle missing or null values in a DataFrame.
 
         7. Data Analysis: Pandas offers numerous functions for data analysis, including statistical analysis, data visualization, data grouping, merging and joining, time series analysis, and more.
 
@@ -1101,7 +1101,7 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
 
         Matplotlib is indeed a popular plotting library in Python that provides a wide range of tools for creating various types of visualizations. Here's a brief introduction to Matplotlib:
 
-        **What is Matplotlib?**
+        **What is Matplotlib**
         Matplotlib is a 2D plotting library that enables you to create high-quality visualizations in Python. It provides a simple and flexible interface for creating a wide range of plots, including line plots, scatter plots, bar plots, histograms, pie charts, and more.
 
         **Key Features of Matplotlib:**
