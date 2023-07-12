@@ -376,7 +376,7 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
 
         You can have multiple return statements in a function, but the function will exit and return the first encountered return statement.
 
-        Understanding function arguments, default values, and return values will allow you to create more flexible and reusable code. Practice using functions with different argument types and return values to gain a better understanding. Let me know if you have any further questions! 😊
+        Understanding function arguments, default values, and return values will allow you to create more flexible and reusable code. Practice using functions with different argument types and return values to gain a better understanding. 😊
   
   3. **Modules and Packages**:
      - Explore how to import and use modules and packages in Python to leverage pre-built functionality.
