@@ -22,7 +22,7 @@
 
 ### **Day 4**: Data Manipulation with Pandas
 
-- Read: [Pandas Documentation](https://pandas.pydata.org/docs/)
+- Read: [Pandas Documentation](https://pandas.pydata.org/docs/), [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 - Install the Pandas library (if not already installed)
 - Learn how to import data from various sources (CSV, Excel, SQL, etc.) into a Jupyter Notebook
 - Perform basic data manipulation tasks such as filtering, sorting, and aggregating data using Pandas
