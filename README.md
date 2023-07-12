@@ -1162,7 +1162,7 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
 
      - Learn how to generate various types of plots, customize them, and add labels, titles, and legends.
 
-        Certainly! Let's dive into the different types of plots, customization options, and how to add labels, titles, and legends using Matplotlib in Python:
+        Let's dive into the different types of plots, customization options, and how to add labels, titles, and legends using Matplotlib in Python:
 
         **1. Line Plot:**
         A line plot is a basic plot that represents data points connected by straight lines. Here's an example of how to create a line plot using Matplotlib:
@@ -1260,7 +1260,7 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
   By focusing on these topics, you'll have a solid understanding of Python's core concepts and the necessary tools to start working with Jupyter notebooks effectively. Of course, Python is a vast language with many additional libraries and functionalities, so continue to explore and expand your knowledge based on your specific needs and interests. Happy coding in Jupyter! 🚀💻
   
 - Complete exercises and coding challenges to practice Python syntax and concepts
-  - Practice is key to mastering any programming language. Look for coding exercises and challenges that cover different aspects of Python, such as variables, loops, conditionals, functions, and data structures. Websites like [LeetCode](https://leetcode.com/) and [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics) offer a wide range of Python coding challenges for various skill levels. Alternatively, you can find Python exercises and projects on platforms like [GitHub](https://github.com/) or educational websites like Real [Python](https://realpython.com/).
+  - Practice is key to mastering any programming language. Look for coding exercises and challenges that cover different aspects of Python, such as variables, loops, conditionals, functions, and data structures. Websites like [LeetCode](https://leetcode.com/) and [HackerRank - 10 Days of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics) offer a wide range of Python coding challenges for various skill levels. Alternatively, you can find Python exercises and projects on platforms like [GitHub](https://github.com/) or educational websites like [Real Python Tutorials](https://realpython.com/).
 
 By the end of Day 2, you will have gained a solid understanding of Python syntax and basic programming concepts. Completing exercises and coding challenges will help reinforce your learning and improve your coding skills. Remember to practice regularly to build your confidence and fluency in Python programming.
 
