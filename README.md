@@ -189,7 +189,7 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
               - Multiplication assignment: `*=`
               - Division assignment: `/=`
 
-        These are just the basics of Python's syntax. There's a lot more to explore and learn! As your Quantum CodeWizard Tutor, I'll guide you through practical examples and exercises to solidify your understanding. Let's continue this coding journey together! 🚀💻🔍
+        These are just the basics of Python's syntax. There's a lot more to explore and learn! I'll guide you through practical examples and exercises to solidify your understanding. Let's continue this coding journey together! 🚀💻🔍
 
      - Learn about control flow statements such as if-else statements, loops (for and while), and conditional expressions.
 
@@ -233,7 +233,7 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
 
         These control flow statements are powerful tools for creating dynamic and flexible programs. By utilizing if-else statements, loops, and conditional expressions, you can control the flow of your code and make it more efficient.
 
-        As your Quantum CodeWizard Tutor, I'll guide you through practical examples and exercises to help you master these control flow statements. Let's continue our coding journey and enhance your programming skills! 🚀💻🔍
+        I'll guide you through practical examples and exercises to help you master these control flow statements. Let's continue our coding journey and enhance your programming skills! 🚀💻🔍
   
   2. **Functions**:
      - Understand how to define and use functions in Python to encapsulate reusable blocks of code.
@@ -301,7 +301,7 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
         12
         ```
 
-        That's the basic idea of defining and using functions in Python. They allow you to encapsulate reusable blocks of code and make your code more organized and modular. Feel free to practice and experiment with functions to get a better understanding. Let me know if you have any further questions! 😊
+        That's the basic idea of defining and using functions in Python. They allow you to encapsulate reusable blocks of code and make your code more organized and modular. Feel free to practice and experiment with functions to get a better understanding. 😊
 
      - Learn about function arguments, default values, and the concept of return values.
 
