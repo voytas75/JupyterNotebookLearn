@@ -986,7 +986,7 @@ By the end of Day 1, you will have a basic understanding of Jupyter Notebook and
 
             1. Statistical Analysis: Pandas allows you to perform statistical analysis on your data with ease. You can calculate descriptive statistics such as mean, median, standard deviation, and more using functions like `mean()`, `median()`, and `std()`. Additionally, Pandas offers methods for correlation analysis (`corr()`) and hypothesis testing (`ttest_ind()`).
 
-            2. Data Visualization: Pandas has built-in integration with popular data visualization libraries like Matplotlib and Seaborn. You can create visually appealing plots and charts to gain insights from your data. Functions like `plot()`, `hist()`, `scatter()`, and `boxplot()` make it easy to visualize your data.
+            2. Data Visualization: Pandas has built-in integration with popular data visualization libraries like [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/). You can create visually appealing plots and charts to gain insights from your data. Functions like `plot()`, `hist()`, `scatter()`, and `boxplot()` make it easy to visualize your data.
 
             3. Data Grouping: Pandas provides powerful tools for grouping data based on specific criteria. You can use the `groupby()` function to group data by one or more columns and perform aggregations, such as sum, mean, count, and more.
 
