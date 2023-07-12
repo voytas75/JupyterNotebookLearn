@@ -1301,29 +1301,31 @@ By the end of Day 3, you will have a good understanding of the basic features an
     Let's dive into the introductory sections and documentation for the DataFrame and Series, which are the primary data structures in pandas.
 
     1. DataFrame:
-      The DataFrame is a 2-dimensional labeled data structure with columns of potentially different types. It can be thought of as a table or a spreadsheet. The pandas documentation provides a comprehensive guide on DataFrame, including the following sections:
-         - [DataFrame Introduction](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#dataframe)
-         - [Creating DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#dataframe)
-         - [Viewing and Selecting Data](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#dataframe)
-         - [Missing Data Handling](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#missing-data-handling)
-         - [Indexing and Selecting Data](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#indexing-selection)
-         - [Data Alignment and Arithmetic](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#data-alignment-and-arithmetic)
-         - [Merge, Join, and Concatenate](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#merge-join-and-concatenate)
-         - [Reshaping and Pivoting](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#reshaping-and-pivot-tables)
-         - [Group By](https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html#groupby)
-         - [Time Series and Date Functionality](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#timeseries)
+       The DataFrame is a 2-dimensional labeled data structure with columns of potentially different types. It can be thought of as a table or a spreadsheet. The pandas documentation provides a comprehensive guide on DataFrame, including the following sections:
+       - [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#minutes-to-pandas)
+       - [DataFrame Introduction](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#dataframe)
+       - [Creating DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#dataframe)
+       - [Viewing and Selecting Data](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#dataframe)
+       - [Missing Data Handling](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#missing-data-handling)
+       - [Indexing and Selecting Data](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#indexing-selection)
+       - [Data Alignment and Arithmetic](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#data-alignment-and-arithmetic)
+       - [Merge, Join, and Concatenate](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#merge-join-and-concatenate)
+       - [Reshaping and Pivoting](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#reshaping-and-pivot-tables)
+       - [Group By](https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html#groupby)
+       - [Time Series and Date Functionality](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#timeseries)
 
-        You can find more detailed information, examples, and code snippets in the official pandas documentation's DataFrame section.
+       You can find more detailed information, examples, and code snippets in the official pandas documentation's DataFrame section.
 
     2. Series:
-      A Series is a one-dimensional labeled array capable of holding any data type. It is often used as a column in a DataFrame or as a standalone data structure. The pandas documentation covers Series extensively as well. Here are some relevant sections to explore:
-         - [Series Introduction](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#series)
-         - [Creating Series](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#series)
-         - [Viewing and Selecting Data](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#series)
-         - [Operations](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#series)
-         - [Time Series and Date Functionality](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#time-series-date-functionality)
+       A Series is a one-dimensional labeled array capable of holding any data type. It is often used as a column in a DataFrame or as a standalone data structure. The pandas documentation covers Series extensively as well. Here are some relevant sections to explore:
+       - [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#minutes-to-pandas)
+       - [Series Introduction](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#series)
+       - [Creating Series](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#series)
+       - [Viewing and Selecting Data](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#series)
+       - [Operations](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#series)
+       - [Time Series and Date Functionality](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#time-series-date-functionality)
 
-        These sections provide a good starting point to understand the fundamentals and usage of Series in pandas.
+       These sections provide a good starting point to understand the fundamentals and usage of Series in pandas.
 
     The pandas documentation is an excellent resource for in-depth information, explanations, and examples. It covers various topics related to DataFrame and Series, including data manipulation, cleaning, indexing, merging, grouping, and much more. You can refer to the [pandas documentation](https://pandas.pydata.org/pandas-docs/stable/) for comprehensive details and examples on using DataFrame and Series effectively.
 
