@@ -91,17 +91,17 @@ Remember to adapt the pace of learning to your own preferences and schedule. Fee
 - Read: [Introduction to Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
   - This documentation provides an overview of Jupyter Notebook, its features, and how to get started. It explains the concept of notebooks, which are interactive documents that can contain code, visualizations, and explanatory text.
 
-    Juniper Notebook is a powerful tool for interactive computing and data analysis. It combines the flexibility of a traditional code editor with the ease of use and interactivity of a notebook interface. With Juniper Notebook, you can write and run code, visualize data, create interactive plots, and document your analysis, all in one place.
+    Jupyter Notebook is a powerful tool for interactive computing and data analysis. It combines the flexibility of a traditional code editor with the ease of use and interactivity of a notebook interface. With Jupyter Notebook, you can write and run code, visualize data, create interactive plots, and document your analysis, all in one place.
 
-    Juniper Notebook supports multiple programming languages, including Python, R, Julia, and more. This means you can leverage your existing coding skills or explore new languages within the same environment. You can also install and use various libraries and packages to enhance your data analysis capabilities.
+    Jupyter Notebook supports multiple programming languages, including Python, R, Julia, and more. This means you can leverage your existing coding skills or explore new languages within the same environment. You can also install and use various libraries and packages to enhance your data analysis capabilities.
 
-    One of the key features of Juniper Notebook is its ability to create interactive and dynamic visualizations. You can generate interactive plots, charts, and graphs that allow you to explore your data in real-time. This makes it easier to gain insights and communicate your findings effectively.
+    One of the key features of Jupyter Notebook is its ability to create interactive and dynamic visualizations. You can generate interactive plots, charts, and graphs that allow you to explore your data in real-time. This makes it easier to gain insights and communicate your findings effectively.
 
-    In addition, Juniper Notebook promotes collaboration and sharing. You can easily share your notebooks with others, allowing for seamless collaboration on projects. You can also publish your notebooks as interactive documents or presentations, making it simple to share your work with a wider audience.
+    In addition, Jupyter Notebook promotes collaboration and sharing. You can easily share your notebooks with others, allowing for seamless collaboration on projects. You can also publish your notebooks as interactive documents or presentations, making it simple to share your work with a wider audience.
 
-    As your tutor, I will guide you through the functionalities of Juniper Notebook, from the basics of running code cells to advanced techniques for data manipulation and visualization. I'll help you understand the underlying concepts and provide practical examples to reinforce your learning.
+    As your tutor, I will guide you through the functionalities of Jupyter Notebook, from the basics of running code cells to advanced techniques for data manipulation and visualization. I'll help you understand the underlying concepts and provide practical examples to reinforce your learning.
 
-    So, get ready to dive into the world of Juniper Notebook and unlock the full potential of interactive computing and data analysis. Together, we'll embark on an exciting journey of coding, exploration, and discovery. Let's get started! 🌟🔍💻📈📚
+    So, get ready to dive into the world of Jupyter Notebook and unlock the full potential of interactive computing and data analysis. Together, we'll embark on an exciting journey of coding, exploration, and discovery. Let's get started! 🌟🔍💻📈📚
 
 - Read: [Visual Studio Code documentation](https://code.visualstudio.com/docs)
   - The Visual Studio Code documentation offers comprehensive information about the features and capabilities of Visual Studio Code as a code editor. It covers topics such as installation, workspace setup, debugging, and extensions. Familiarize yourself with the documentation to understand the various aspects of Visual Studio Code that you'll be utilizing throughout the learning path.
